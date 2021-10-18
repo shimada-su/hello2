@@ -6,3 +6,4 @@
 pbl1で入力１０１５
 windowsで入力１０１８
 pbl1_1018_2
+Widows_1018
